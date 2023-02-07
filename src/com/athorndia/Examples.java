@@ -7,6 +7,6 @@ public class Examples {
 	}
 
 	public void example() {
-		String str = "Hi!";
+		String str = "Hi!!";
 	}
 }
